@@ -124,11 +124,24 @@ body{
 	text-align: center;
 }
 
+#Qr{
+	text-align: center;
+}
+
 #like{
+	text-align: center;
 }
 
 #qna{
-	font-family: 'Arimo', sans-serif;
+	text-align: center;
+}
+
+#form-container{
+	text-align: center;
+}
+
+#contact-form{
+	text-align: center;
 }
 
 #qna-table, th, td{
